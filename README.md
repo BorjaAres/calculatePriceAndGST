@@ -44,7 +44,3 @@ Suppose we want to calculate the price with GST for a product that costs $100 an
    It is also updated in the HTML elements with IDs `myDiv1` and `myDiv2`.
 
 Feel free to modify the inputs and experiment with different price and GST values!
-
---------------------
-
-I hope the provided README file helps you understand the code and its usage. Let me know if you need any further assistance!
