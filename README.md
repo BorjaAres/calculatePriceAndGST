@@ -44,3 +44,7 @@ Suppose we want to calculate the price with GST for a product that costs $100 an
    It is also updated in the HTML elements with IDs `myDiv1` and `myDiv2`.
 
 Feel free to modify the inputs and experiment with different price and GST values!
+
+## Deployed Application
+
+You can access the deployed application for this program [here](https://calculatepricegst.netlify.app/). Visit the link to try it out without having to run the code locally.
